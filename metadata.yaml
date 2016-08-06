@@ -1,0 +1,37 @@
+_repo: The-Cruise-of-the-Dazzler_11051
+_version: 0.0.1
+creator:
+  author:
+    agent_name: London, Jack
+    alias: Chaney, John Griffith
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '120'
+    url: http://www.gutenberg.org/2009/agents/120
+    wikipedia: http://en.wikipedia.org/wiki/Jack_London
+description: "The Cruise of the Dazzler is an early novel by Jack London, set in his\
+  \ home city of San Francisco. It is considered a boy's adventure novel.\nIn the\
+  \ novel, Joe Bronson, dissatisfied with his dull life at school, runs away and joins\
+  \ the crew of a sloop he sees in San Francisco Bay. He finds the captain is involved\
+  \ in criminal activities.\nThe nautical activities on board a sailing boat are authentically\
+  \ described, and there are convincing descriptions of boats enduring stormy weather\
+  \ at sea.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11051'
+  wikidata: Q17986750
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ocean travel -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Cruise of the Dazzler
+url: http://www.gutenberg.org/ebooks/11051
+wikipedia:
+- https://hy.wikipedia.org/wiki/%D5%83%D5%A1%D5%B6%D5%A1%D5%BA%D5%A1%D6%80%D5%B0%D5%B8%D6%80%D5%A4%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6_%C2%AB%D5%87%D5%AC%D5%A1%D6%81%D5%B8%D6%82%D6%81%D5%AB%D5%B9%D5%B8%D5%BE%C2%BB
+- https://de.wikipedia.org/wiki/Frisco_Kid_(Roman)
+- https://en.wikipedia.org/wiki/The_Cruise_of_the_Dazzler
